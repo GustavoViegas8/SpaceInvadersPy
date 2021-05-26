@@ -9,4 +9,4 @@ pip install pygame
 python Space\ Invanders.py
 
 ## Status 
-Em construção... 🚧
+Finalizado :white_check_mark:
